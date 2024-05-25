@@ -1,16 +1,21 @@
 calculator view
 
+![image](https://github.com/Mohamed-Elsogher/Reduction_Formula_Calculator/assets/155487881/f37efad9-ff81-467b-b5af-d4f0f479b111)
 
-<img width="864" alt="image" src="https://github.com/Mohamed-Elsogher/Reduction-formula-integration-calculator/assets/155487881/0fadd66c-4936-47e3-81bb-1d8d54fcdc76">
 
 
 This calculator performs integration to reduction formula you just write the function and the power
 
 
-<img width="859" alt="image" src="https://github.com/Mohamed-Elsogher/Reduction-formula-integration-calculator/assets/155487881/7275835c-08c9-4d43-9f73-53a2924012c4">
+![image](https://github.com/Mohamed-Elsogher/Reduction_Formula_Calculator/assets/155487881/081ffa38-9df0-42aa-99bf-afb5158acdae)
+
 
 
 then will apper the results 
 
 
-<img width="875" alt="image" src="https://github.com/Mohamed-Elsogher/Reduction-formula-integration-calculator/assets/155487881/14747546-2057-4494-8578-74e6f7c74760">
+![image](https://github.com/Mohamed-Elsogher/Reduction_Formula_Calculator/assets/155487881/d89e2bd5-d43b-4274-a3f6-4ea244f48b5e)
+
+if the power was odd 
+
+![image](https://github.com/Mohamed-Elsogher/Reduction_Formula_Calculator/assets/155487881/556f1d5a-3365-4407-8981-c86790d50a59)
